@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import pyrebase
 from time import sleep
 config = {
-    "apiKey": "AIzaSyCpCt6jeakKXLLq6CLZtvMcZ5m9q7q1CZ4",
+    "apiKey": "API_KEY",
     "authDomain": "major-project-19641",
     "databaseURL": "https://major-project-19641-default-rtdb.firebaseio.com/",
     "storageBucket": "project-680659596396"
